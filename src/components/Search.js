@@ -17,7 +17,7 @@ const Search = () => {
 
     return (
         <form className="search-form" onSubmit={(e) => e.preventDefault()}>
-            <h2>search movies debouce(1s)</h2>
+            <h2>Search Movie</h2>
             <input
                 type="text "
                 className="form-input"
